@@ -1,0 +1,1 @@
+Testando arquivo inserido e enviado via linha de comando.
